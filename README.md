@@ -1,6 +1,6 @@
 ### Sup? 👋
 
-- 👀 I'm Areeb, working as Software Development Engineer at CAW Studios
+- 👀 I'm Areeb, working as a front-end developer.
 - 💻 I’m a full stack MERN developer, focusing more on the front-end part.
 - 👯 I’m looking to collaborate on ReactJS repositories.
 - 🔭 I’m currently working on improving my DSA and General Algorithm Solving skills.
