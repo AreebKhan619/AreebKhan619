@@ -1,27 +1,25 @@
-### Sup? 👋
+# Hi, I'm Areeb 👋
 
-- 👀 I'm Areeb, working as a front-end developer.
-- 💻 I’m a full stack MERN developer, focusing more on the front-end part.
-- 👯 I’m looking to collaborate on ReactJS repositories.
-- 🔭 I’m currently working on improving my DSA and General Algorithm Solving skills.
-- 📫 You can reach out to me via social media (Check out my portfolio @ areeb.co.in)
-- ⚡ Fun fact: Contrary to popular belief, sitting "straight" is bad for the back as it puts pressure on the spine, the position with the least pressure was found to be leaning 135 degrees backwards
+**Front-end-leaning full-stack engineer** · TypeScript, React, React Native, Node.js · 7+ years · Remote
 
-## Tech Stack
+I build B2B products end to end, with the most depth on the front end, and I use AI coding agents to ship faster. Currently lead front-end at [Reeco](https://reeco.io), a hospitality procurement marketplace.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## What I've shipped
+- **Reeco Buyer app**: B2B marketplace for 3,700+ users across 1,000+ properties; 24,000+ invoices worth $42M+ processed
+- **Reeco mobile app** (React Native): built from scratch, offline-first, on Android and iOS
+- **AI design-to-code pipeline** (Claude Code plugin): cut screen delivery from days to about 2 hours
+- **QRiosity**: traceability platform that gave 5M+ products a unique identity
 
-## Contact Me
+## Stack
+**Front end:** React, Next.js, React Native, TanStack Query, Redux, Storybook, Tailwind
+**Back end:** Node.js, Express, MongoDB, REST, JWT and session auth, RBAC
+**AI tooling:** Claude Code, agent skills, subagents, design tokens
+**Practice:** TypeScript, React Testing Library, CI, monorepos
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AreebKhanDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mareebkhan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://areeb.co.in/)
+## Featured open source
+- [onboarding-exploration-mockup](link): E2E-tested multi-step onboarding flow
+- [2048](link): React game with 29 stars
+- [portfolio-website](link): Next.js portfolio
+
+## Get in touch
+[Portfolio](https://areeb.co.in) · [LinkedIn](https://linkedin.com/in/mareebkhan) · areebkhan619@gmail.com
